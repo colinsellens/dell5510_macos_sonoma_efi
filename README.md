@@ -1,0 +1,1 @@
+# dell5510_macos_sonoma_efi
